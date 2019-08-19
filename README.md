@@ -2,8 +2,7 @@
 This is the pytroch example and training on mnist.
 
 # Model
-LeNet-5 
-reference: LECUN, Yann, et al. Gradient-based learning applied to document recognition. Proceedings of the IEEE, 1998, 86.11: 2278-2324.
+[LeNet-5][http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf]
 
 # Learning rate adjustment
 I manually change the lr during training
